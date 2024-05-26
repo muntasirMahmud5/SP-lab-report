@@ -1,4 +1,6 @@
 #include <stdio.h>
+//Develop a C program that calculates the factorial of a non-negative integer
+//'n' entered by the user
 
 int main() {
     int n, i;
